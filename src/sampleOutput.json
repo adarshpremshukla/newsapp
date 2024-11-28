@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Russian missile strike on Sumy kills 11, injures 89, Ukraine says - Reuters",
+            "description": "Two children were among 11 people killed when a Russian missile hit a residential building in Ukraine's northeastern city of Sumy, Ukrainian officials said, while another missile strike left the region's administrative centre without power.",
+            "url": "https://www.reuters.com/world/europe/two-children-among-10-killed-russian-missile-strike-sumy-ukraine-says-2024-11-17/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LJ7ZA2BI7NLI5F3TPCHP5JQPSU.jpg?auth=d86fdef0b565bbfa4f6eeba8c57feeba41971c5a0e8131bbae4e28898acd51e7&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-18T07:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "ATACMS: How long-range missiles striking Russia could affect Ukraine war - BBC.com",
+            "description": "The US has never allowed Kyiv to use long-range missiles for attacks inside Russia proper – until now.",
+            "url": "https://www.bbc.com/news/articles/cx2nrlq1840o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9ae6/live/3b4a13b0-a54d-11ef-bdf5-b7cb2fa86e10.jpg",
+            "publishedAt": "2024-11-18T07:19:38Z",
+            "content": "Ukrainian President Volodymyr Zelensky had been requesting to be allowed to fire ATACMS into Russia for months\r\nUS officials say President Biden has given the green light for Ukraine to use long rang… [+6299 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lewis Krauskopf",
+            "title": "Headwinds hit Trump-fueled rally in US stocks - Reuters",
+            "description": "A U.S. stock rally fueled by Donald Trump’s election victory is stumbling, as investors contend with everything from renewed inflation worries to uncertainty over the impact of the president-elect's policies.",
+            "url": "https://www.reuters.com/markets/us/headwinds-hit-trump-fueled-rally-us-stocks-2024-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/LGMX3DVNZNLGVN3IH766SRCNPI.jpg?auth=5bf3fecf3659696fa0c55ec601912d9e09344d68396ccbf6841093f52fcd55e6&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-18T07:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Zak Doffman",
+            "title": "Google’s Gmail Decision—Why You Need A New Email Address - Forbes",
+            "description": "A huge update for 2 billion Gmail users has suddenly leaked; here’s what you need to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/11/18/googles-update-decision-this-completely-changes-gmail-on-your-phone/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=1006,599,x210,y476,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-18T05:54:00Z",
+            "content": "Gmail is about to change forever\r\nNurPhoto via Getty Images\r\nUpdated on November 18 with a new email threat warning as malicious image attachments are found evading existing security measures, and a … [+8712 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Viser",
+            "title": "Biden visits Amazon rainforest, a first for an American president - The Washington Post",
+            "description": "Biden’s emphasis on climate change during his trip creates yet another contrast with Trump as the president prepares to leave office.",
+            "url": "https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z6HZAKNXZ5L5BH2QWGSNEXDER4_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-11-18T05:52:30Z",
+            "content": "MANAUS, Brazil President Joe Biden stopped Sunday in this city in the heart of the rainforest, marking the first time a sitting U.S. president has visited the Amazon, as he sought to emphasize the im… [+122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Martin Young",
+            "title": "Google’s AI chatbot tells student needing help with homework to ‘please die’ - Cointelegraph",
+            "description": "Google’s Gemini AI chatbot caused controversy by responding with a disturbing message to a US student researching a project.",
+            "url": "https://cointelegraph.com/news/google-ai-chatbot-tells-student-needing-homework-help-please-die",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2024-11/01933d97-c944-7e45-85d5-6a53945ab78c",
+            "publishedAt": "2024-11-18T05:48:37Z",
+            "content": "A student in the United States received a chilling response from Googles artificial intelligence chatbot Gemini when he asked for help with an assignment for college. \r\nThe Michigan college student r… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "Organic carrots recalled as E coli outbreak leaves 1 dead, dozens infected in 18 states - Axios",
+            "description": "The outbreak that's left 15 people hospitalized comes after over 100 McDonald's customers were also infected with E coli.",
+            "url": "https://www.axios.com/2024/11/18/e-coli-organic-carrots-outbreak",
+            "urlToImage": "https://images.axios.com/BT3f2VS5Qc_L98lF5l_K6po8uCM=/0x0:5000x2813/1366x768/2024/11/18/1731904514688.jpg",
+            "publishedAt": "2024-11-18T05:18:10Z",
+            "content": "Organic bagged carrots sold in the U.S. under multiple brands have been linked to an E coli outbreak that's killed one person and sickened 39 others in at least 18 states  with 15 hospitalized, the C… [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL 2024 playoff picture, standings after Week 11: Steelers command AFC North; Bills close in on Chiefs - CBS Sports",
+            "description": "A look at the playoff standings after the Week 11 games",
+            "url": "https://www.cbssports.com/nfl/news/nfl-2024-playoff-picture-standings-after-week-11-steelers-command-afc-north-bills-close-in-on-chiefs/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/17/5b9801f8-462c-44e8-a203-5e3765da7472/thumbnail/1200x675/0252ddbb8853dd515225bf2db2c81f5d/usatsi-24786582-chris-boswell-steelers-kicker-50-fg-4q-2024-1400.jpg",
+            "publishedAt": "2024-11-18T05:06:22Z",
+            "content": "The AFC had a major shake-up after the thrilling Week 11 slate, even if not much changed in the standings. The Kansas City Chiefs are no longer the lone unbeaten, as the Buffalo Bills own the head-to… [+12156 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Katrina Kaufman",
+            "title": "Pete Hegseth, Trump's pick for defense secretary, paid accuser to save job at Fox News, his lawyer says - CBS News",
+            "description": "Trump has indicated that the revelations about the accuser and payment have not deterred him from Hegseth's selection as defense secretary.",
+            "url": "https://www.cbsnews.com/news/pete-hegseth-sexual-assault-allegation-payment/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/18/2d736208-05e3-4d9d-9bfd-b9eb32d3970c/thumbnail/1200x630/b92778839caef824363dc7617ed71f07/gettyimages-1167012750.jpg?v=cc5700e8049ccc64c4e0272313675898",
+            "publishedAt": "2024-11-18T04:56:00Z",
+            "content": "Fox News host Pete Hegseth, President-elect Donald Trump's pick to serve as defense secretary, paid a confidential financial settlement to a woman who accused him of sexual assault out of concern tha… [+6272 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson, Timothy Gardner",
+            "title": "Trump taps Big Tech critic Carr to chair Federal Communications Commission - Reuters",
+            "description": "Brendan Carr, a critic of the Biden administration's telecom policies and Big Tech, is currently the top Republican on the FCC.",
+            "url": "https://www.reuters.com/world/us/trump-taps-brendan-carr-chairman-federal-communications-commission-2024-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/SJNLZ6ZVQ5NVJDQOYBXDFTE4RQ.jpg?auth=913498f49b824e613a58035ddb11bbd51be2933b22a78fdffcc68bb994f8d6ad&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-11-18T04:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-18T04:44:42Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netflix.com"
+            },
+            "author": null,
+            "title": "BEYONCÉ TO PERFORM AT HALFTIME OF RAVENS-TEXANS DURING NFL CHRISTMAS GAMEDAY LIVE ON NETFLIX - About Netflix",
+            "description": "Your early Christmas wish has been granted as Beyoncé will perform during Netflix's first-ever NFL Christmas Gameday live on Netflix this December 25.",
+            "url": "https://about.netflix.com/news/beyonce-to-perform-at-halftime-of-ravens-texans-during-nfl-christmas-gameday",
+            "urlToImage": "https://images.ctfassets.net/4cd45et68cgf/3Psc62JgLWSxfnSA3GjDQV/7d47d6f62daba88a166e6cbafaf453bc/20241117_HALFTIME_001.jpeg",
+            "publishedAt": "2024-11-18T04:43:59Z",
+            "content": "The NFL Games featuring Beyoncés performance will be available to Netflixs 283 million members globally on December 25\r\nLos Angeles, November 17, 2024 Your early Christmas wish has been granted as Be… [+3869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Lamar Jackson sounds off after Ravens' latest letdown vs. Steelers: 'That s--t is annoying' - CBS Sports",
+            "description": "Jackson is tired of his team getting in its own way",
+            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-sounds-off-after-ravens-latest-letdown-vs-steelers-that-s-t-is-annoying/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/11/18/2bfb4c39-e6e9-4ae6-b4e4-9979287ccfc5/thumbnail/1200x675/7aa471af3122d450c16a4a00cb163d5e/lamarjackson.jpg",
+            "publishedAt": "2024-11-18T04:43:00Z",
+            "content": "PITTSBURGH -- The Baltimore Ravens continue to underachieve, and Lamar Jackson is tired of it. The reigning league MVP didn't hide his frustration following Sunday's 18-16 loss to the Steelers that d… [+2913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Audacy.com"
+            },
+            "author": "Sal Capaccio",
+            "title": "OPINION: Capaccio: Arrow Up/Arrow Down: Chiefs at Bills - WGR550",
+            "description": "The Buffalo Bills improved to 9-2 on the season, their best start since 1992, with a 30-21 victory over the Kansas City Chiefs, and in the process giving the Chiefs their first loss of the season.",
+            "url": "https://www.audacy.com/wgr550/sports/capaccio-arrow-up-arrow-down-chiefs-at-bills",
+            "urlToImage": "https://images.radio.com/aiu-media/USATSI24788788-9a72d434-f16e-4688-8fa2-b9ff1f826886.jpg",
+            "publishedAt": "2024-11-18T04:24:00Z",
+            "content": "Orchard Park, NY (WGR550) - The Buffalo Bills improved to 9-2 on the season, their best start since 1992, with a 30-21 victory over the Kansas City Chiefs, and in the process giving the Chiefs their … [+6885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "Shalu Saraf",
+            "title": "Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3 - TipRanks",
+            "description": "AI giant Nvidia ($NVDA) is set to release its Q3 FY25 results on November 20. Analysts are predicting strong top-and bottom-line growth in Q3. They expect the compa...",
+            "url": "https://www.tipranks.com/news/nvidia-nvda-pre-earnings-analysts-expect-88-earnings-growth-in-q3",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/11/shutterstock_2425904837-750x406.jpg",
+            "publishedAt": "2024-11-18T04:00:48Z",
+            "content": "AI giant Nvidia (NVDA) is set to release its Q3 FY25 results on November 20. Analysts are predicting strong top-and bottom-line growth in Q3. They expect the company to report earnings of $0.75 per s… [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melissa Alonso",
+            "title": "2 dead, 10 injured in New Orleans shootings - CNN",
+            "description": "At least two people were killed and 10 others were injured in two shootings during a popular New Orleans second-line parade on Sunday, according to the New Orleans Police Department.",
+            "url": "https://www.cnn.com/2024/11/17/us/at-least-10-shot-in-new-orleans-drive-by-shootings/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21133749-339599-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-11-18T02:48:00Z",
+            "content": "Two people were killed and 10 others were injured in two shootings during a popular New Orleans second-line parade on Sunday, according to the New Orleans Police Department.\r\nThere are two different … [+2498 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Saleha Mohsin, Joshua Green, Annmarie Hordern",
+            "title": "Bessent Spoke With Musk as Contest Endures for Treasury Position - Bloomberg",
+            "description": "The search for Donald Trump’s chief economic policymaker devolved into disarray over the weekend, with contenders tussling for support, aides scrambling to find alternative candidates and the president-elect fuming over the behind-the-scenes jockeying that ha…",
+            "url": "https://www.bloomberg.com/news/articles/2024-11-17/bessent-spoke-with-musk-as-contest-endures-for-treasury-position",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYo.NdJAlKDE/v2/1200x800.jpg",
+            "publishedAt": "2024-11-18T02:30:00Z",
+            "content": "The search for Donald Trumps chief economic policymaker devolved into disarray over the weekend, with contenders tussling for support, aides scrambling to find alternative candidates and the presiden… [+380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "NASA May Have Inadvertently Killed Life on Mars, Scientist Says - ScienceAlert",
+            "description": "In all our explorations of Mars to date, no evidence has been found that meets the rigorous standards to claim that we have conclusively found life.",
+            "url": "https://www.sciencealert.com/nasa-may-have-inadvertently-killed-life-on-mars-scientist-says",
+            "urlToImage": "https://www.sciencealert.com/images/2022/12/mars-crescent.jpg",
+            "publishedAt": "2024-11-18T02:18:28Z",
+            "content": "In all our explorations of Mars to date, no evidence has been found that meets the rigorous standards to claim that we have conclusively found life.\r\nBut, decades ago in the 1970s, when the Viking la… [+4861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Animal House' Star Tim Matheson Says He Was 'Lucky' Not to Be Cocaine Addict - TMZ",
+            "description": "Tim Matheson says he's lucky he never got too big into cocaine ... saying he played hard -- but, he worried too much about how the white stuff would affect his work.",
+            "url": "https://www.tmz.com/2024/11/17/animal-house-actor-tim-matheson-lucky-not-cocaine-addict/",
+            "urlToImage": "https://imagez.tmz.com/image/9f/16by9/2024/11/17/9f8cc9e88f6347498306966d134cd4c6_xl.jpg",
+            "publishedAt": "2024-11-18T02:02:00Z",
+            "content": "Tim Matheson says he's lucky he never got too big into cocaine ... saying he played hard -- but, he worried too much about how the white stuff would affect his work to get addicted.\r\nThe star of \"Ani… [+1203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Marc Malkin",
+            "title": "Governors Awards 2024 Red Carpet Photos With Tom Hanks, Selena Gomez, Kate Winslet, Andrew Garfield - Variety",
+            "description": "Hollywood's biggest stars hit the red carpet at The Academy of Motion Picture Arts and Sciences' annual Governors Awards.",
+            "url": "https://variety.com/gallery/governors-awards-2024-red-carpet-photos-academy-oscars/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/GF1_3859_d31b17-e1731892023859.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-11-18T01:35:00Z",
+            "content": "The red carpet for the Academy of Motion Picture Arts and Sciences’ annual Governors Awards was overflowing with A-listers.\r\nSunday’s starry evening, considered the first major campaign stop for the … [+8484 chars]"
+        }
+    ]
+}
